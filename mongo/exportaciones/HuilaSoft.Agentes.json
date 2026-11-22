@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0e"
+    },
+    "nombre": "Laura Cerquera",
+    "nivel": "senior",
+    "ticketsh": 10,
+    "turno": "lunes"
+  },
+  {
+    "_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0f"
+    },
+    "nombre": "Andrés Perdomo",
+    "nivel": "junior",
+    "ticketsh": 6,
+    "turno": "no"
+  }
+]

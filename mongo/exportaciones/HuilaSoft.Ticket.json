@@ -1,0 +1,98 @@
+[
+  {
+    "_id": {
+      "$oid": "6b021b90ee9fab26628e6d28"
+    },
+    "codigo": "T1",
+    "minllegada": 0,
+    "atencion": 5,
+    "prioridad": "alta",
+    "agente_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6b021b90ee9fab26628e6d29"
+    },
+    "codigo": "T2",
+    "minllegada": 3,
+    "atencion": 7,
+    "prioridad": "alta",
+    "agente_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6b021b90ee9fab26628e6d2a"
+    },
+    "codigo": "T3",
+    "minllegada": 6,
+    "atencion": 4,
+    "prioridad": "media",
+    "agente_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6b021b90ee9fab26628e6d2b"
+    },
+    "codigo": "T4",
+    "minllegada": 14,
+    "atencion": 8,
+    "prioridad": "baja",
+    "agente_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6b021b90ee9fab26628e6d2c"
+    },
+    "codigo": "T5",
+    "minllegada": 25,
+    "atencion": 6,
+    "prioridad": "alta",
+    "agente_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6b021b90ee9fab26628e6d2d"
+    },
+    "codigo": "T6",
+    "minllegada": 28,
+    "atencion": 5,
+    "prioridad": "media",
+    "agente_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6b021b90ee9fab26628e6d2e"
+    },
+    "codigo": "T7",
+    "minllegada": 40,
+    "atencion": 9,
+    "prioridad": "media",
+    "agente_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6b021b90ee9fab26628e6d2f"
+    },
+    "codigo": "T8",
+    "minllegada": 52,
+    "atencion": 4,
+    "prioridad": "alta",
+    "agente_id": {
+      "$oid": "6b0214f4ee9fab26628e6d0e"
+    }
+  }
+]

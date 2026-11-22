@@ -1,0 +1,58 @@
+[
+  {
+    "_id": {
+      "$oid": "6b021b03ee9fab26628e6d20"
+    },
+    "semana": 1,
+    "ndefectos": 28
+  },
+  {
+    "_id": {
+      "$oid": "6b021b03ee9fab26628e6d21"
+    },
+    "semana": 2,
+    "ndefectos": 23
+  },
+  {
+    "_id": {
+      "$oid": "6b021b03ee9fab26628e6d22"
+    },
+    "semana": 3,
+    "ndefectos": 22
+  },
+  {
+    "_id": {
+      "$oid": "6b021b03ee9fab26628e6d23"
+    },
+    "semana": 4,
+    "ndefectos": 17
+  },
+  {
+    "_id": {
+      "$oid": "6b021b03ee9fab26628e6d24"
+    },
+    "semana": 5,
+    "ndefectos": 16
+  },
+  {
+    "_id": {
+      "$oid": "6b021b03ee9fab26628e6d25"
+    },
+    "semana": 6,
+    "ndefectos": 12
+  },
+  {
+    "_id": {
+      "$oid": "6b021b03ee9fab26628e6d26"
+    },
+    "semana": 7,
+    "ndefectos": 12
+  },
+  {
+    "_id": {
+      "$oid": "6b021b03ee9fab26628e6d27"
+    },
+    "semana": 8,
+    "ndefectos": 9
+  }
+]
